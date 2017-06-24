@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tarea Academica</string>
+    <string name="title_welcome">Tarea Academica #2</string>
+    <string name="sub_title_messages">Esta es la tarea #2</string>
+    <string name="title_soon">Imagen Vengadores</string>
+    <string name="sub_title_imy_complaint">Una pelicula donde salen varios actores muy conocidos</string>
+    <string name="title_about_me">Acerca de Mi</string>
+    <string name="title_service">Servicios</string>
+    <string name="sub_title_product_1">Producto 1 :</string>
+    <string name="product_detail_1">Este es el detalle del producto #1, espero que este bien</string>
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_about_me">Acerca de Mi</string>
+    <string name="menu_service">Servicios</string>
+    <string name="button_continue">Siguiente</string>
+    <string name="button_finish">Finalizar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
+
+
